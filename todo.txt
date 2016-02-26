@@ -1,0 +1,23 @@
+Login mit Php auswerten
+JQUERY Funktion schreiben, die den navbar auf active setzt bei jeder seite
+
+changeData:
+	-Ändern zu mein Profil
+
+Tunierseite
+	- Tuniererstellseite(Modal?) Spalte(eigenes Tunier) einfügen
+	
+	-Daten ändern button /löschen --> funktion hinzufügen
+	- bei teilnehmern link zur spielerseite wenn showprofile fertig ist
+	- > Bei eigenem Tunier zusätzlichen Tab mit Organisatorischem
+	- allgemein vllt noch Sektion transport einfügen --> Auto wer wo mitfährt etc
+
+Navbar include funktioniert nicht
+
+
+
+Augehört bei 
+-->json an newCompetition senden und auswerten
+
+
+
